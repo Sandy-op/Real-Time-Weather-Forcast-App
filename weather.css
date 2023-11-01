@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.weather{
+    background-color: transparent;
+    box-shadow: rgb(7, 7, 7) 0px 0px 8px 0px;
+    height: 740px;
+    width: 500px;
+    margin: 0px auto;
+    
+    border-radius: 10px;
+}
+.weather button{
+    background-color: goldenrod;
+    margin-left: 210px;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+#input{
+    background-color: rgb(70, 67, 67);
+    border-radius: 20px;
+    border: none;
+    color: white;
+    width: 80%;
+    height: 10px;
+    margin: 20px 39px;
+    padding: 15px 0px 15px 20px;
+    font-size: 18px;
+}
+#input::placeholder{
+    color: rgb(163, 160, 160);
+    font-size: 18px;
+}
+
+.app{
+    background-color: rgb(70, 67, 67);
+    border-radius: 10px;
+    width: 85%;
+    height: 570px;
+    margin: 0px auto;
+}
+
+.forcast{
+    background-color: rgb(194, 191, 191);
+    height: 125px;
+    width: 1250px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.forcast p{
+    margin-top: 30px;
+}
+.forcast h3{
+    font-size: 35px;
+}
+
+.blocks{
+    display: flex;
+    margin: 0px 30px;
+}
+
+.temp{
+    text-align: center;
+    color: white;
+}
+.temp h1{
+    font-size: 100px;
+}
+.temp h2{
+    font-size: 30px;
+}
+.temp p{
+    font-size: 25px;
+    padding: 10px 10px 30px;
+}
