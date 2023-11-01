@@ -17,4 +17,5 @@ Features
     User-Friendly Interface: The app offers an intuitive and easy-to-navigate user interface.
 
 
-![Weather-Forcast](https://github.com/Sandy-op/Real-Time-Weather-Forcast-App/assets/133190022/25f3fd55-60c2-4131-b95a-ee6ff48ca87f)
+![Weather-Forcast ](https://github.com/Sandy-op/Real-Time-Weather-Forcast-App/assets/133190022/72cbd4b6-befa-488a-b0a6-6647a84d1c1c)
+
